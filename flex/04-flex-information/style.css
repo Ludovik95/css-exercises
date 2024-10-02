@@ -44,7 +44,6 @@ body {
 .item {
   display: flex;
   flex-direction: column;
-  justify-content: stretch;
   flex: 0 0 200px;
   align-items: center;
   gap: 8px;
